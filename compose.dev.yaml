@@ -1,3 +1,5 @@
+name: synistro-backend-localhost
+
 services:
   web:
     image: nginx:latest # Using the default Nginx image with custom configuration.

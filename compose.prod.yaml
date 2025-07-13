@@ -1,3 +1,5 @@
+name: synistro-backend-localhost
+
 services:
   web:
     build:
